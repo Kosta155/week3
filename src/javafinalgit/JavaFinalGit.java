@@ -15,7 +15,7 @@ public class JavaFinalGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out..println("GIT GIT GIT");
+        System.out.println("GIT GIT GIT");
     }
     
 }
